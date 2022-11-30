@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "166609510576",
+    "firebase_url": "https://ziv1-a3e3f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ziv1-a3e3f",
+    "storage_bucket": "ziv1-a3e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166609510576:android:a8b4b94faa7f039c615b75",
+        "android_client_info": {
+          "package_name": "com.example.kotlinexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166609510576-a7260ribeo1gvmp7s9d48p3kg39t29n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlinexample",
+            "certificate_hash": "459d739f4ce24c6bad0242824ec045477f13b8df"
+          }
+        },
+        {
+          "client_id": "166609510576-aqknv7668i2eercph9qop4g8245ns6kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW1jykXpgTEl97Ro45v55yziJkLoSJpBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166609510576-aqknv7668i2eercph9qop4g8245ns6kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
